@@ -5,7 +5,7 @@ Indice
 
 <a href="andrestr.github.io/WEB/practica 22.html">Practica 2</a>
 
-<a href="https://andrestr.github.io/WEB/Practica33.html#">Practica3</a>
+<a href="https://andrestr/WEB/Practica33.html#">Practica3</a>
 
 <a href="https://andrestr.github.io/WEB/Practica44.html#">Practica4</a>
 
