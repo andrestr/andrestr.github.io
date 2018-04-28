@@ -13,6 +13,6 @@ Indice
 
 <a href="https://andrestr.github.io/WEB/Practica66.html#">Practica6</a>
 
-<a href="https://andrestr.github.io/WEB/practica77.html#">Practica7</a>
+<a href="https://andrestr.github.io/WEB/practica7.html#">Practica7</a>
 
 <a href="https://andrestr.github.io/WEB/Practica88.html#">Practica8</a>
