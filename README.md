@@ -1,7 +1,7 @@
 # Andres Torres Rios 4AVP
 Indice
 
-<a href="https://andrestr.github.io/WEB/Practica.html.html#">Practica 1</a>
+<a href="https://andrestr.github.io/WEB/practica.html.html#">Practica 1</a>
 
 <a href="https://andrestr.github.io/WEB/practica 22.html#">Practica 2</a>
 
